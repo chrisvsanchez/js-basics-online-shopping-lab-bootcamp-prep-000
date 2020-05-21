@@ -70,5 +70,5 @@ function placeOrder(cardNumber) {
       // cart.pop();
   // }
 }
-  return cart;
+  return cart = [];
 }
