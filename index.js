@@ -69,5 +69,6 @@ function placeOrder(cardNumber) {
     for (var i = cart.length; i>= 0; i--) {
       cart.pop();
   }
+}
   return cart;
 }
