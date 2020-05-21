@@ -69,5 +69,4 @@ function placeOrder(cardNumber) {
     let cart = [];
     return cart;
   }
-  
 }
